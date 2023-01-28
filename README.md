@@ -3,6 +3,7 @@ This program is a simple command-line To-Do list application written in Rust pro
 
 <h1>How to use</h1>
 <ul>
+<li>Clone the repository i.e. git clone </li>
 <li>Open your command-line interface and navigate to the directory where the program is located.</li>
 <li>Run the program by typing cargo run (if you have rust installed)</li>
 <li>The program will prompt you to enter what you want to do. Type in your task and hit enter.</li>
