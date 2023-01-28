@@ -25,5 +25,5 @@ This program is a simple command-line To-Do list application written in Rust pro
 <li>Add functionality to mark items as completed</li>
 <li>Saving the list for future usage</li>
 <li>Add GUI to make it more user friendly.</li>
-
+<br />
 Please let me know if you have any issues or suggestions for improvement.
